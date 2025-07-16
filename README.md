@@ -18,8 +18,8 @@ Hi, I'm Ammad! I specialize in creating sleek, high-performing web applications 
 
 ## Deployment
 This website is deployed using **GitHub Pages**. You can visit the live site at:
-[https://yourusername.github.io/ammad-portfolio](https://yourusername.github.io/ammad-portfolio)
-(Replace `yourusername` and `ammad-portfolio` with your actual GitHub username and repository name.)
+[https://gxammad.github.io/ammad-portfolio](https://gxammad.github.io/ammad-portfolio)
+(Replace with your actual URL after enabling GitHub Pages.)
 
 ## Technologies Used
 - **HTML**: Structure of the website.
